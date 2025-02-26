@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 from langchain.prompts import PromptTemplate
 
-API_KEY = "AIzaSyCk5E_4Honj7ZXWyoUJ8z_SMcYzK4lNSo8"
+API_KEY = "api-key"
 
 # Validate API Key
 if not API_KEY:
